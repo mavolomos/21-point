@@ -37,3 +37,7 @@
 
 ## USE CASE
 <img width="499" height="792" alt="use_case_21 drawio" src="https://github.com/user-attachments/assets/b80009c9-8976-4485-9e69-0394d1e52d95" />
+
+## БЛОК-схема
+<img width="660" height="1132" alt="блок_схема_21 drawio" src="https://github.com/user-attachments/assets/4d6e87d4-57dd-4225-8648-8cb0e363fb9d" />
+
