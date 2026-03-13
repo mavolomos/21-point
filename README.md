@@ -34,3 +34,6 @@
 - [x] Возможность начать новую игру после завершения текущей (запрос «да/нет»).
 - [x] Интуитивно понятный консольный интерфейс с подсказками и разделителями.
 - [ ] Наглядное указание карт с мастью и цветом
+
+## USE CASE
+<mxGraphModel><root><mxCell id="0"/><mxCell id="1" parent="0"/><mxCell id="2" parent="1" style="whiteSpace=wrap;html=1;" value="подсчет очков" vertex="1"><mxGeometry height="60" width="120" x="160" y="350" as="geometry"/></mxCell></root></mxGraphModel>
