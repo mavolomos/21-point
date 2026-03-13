@@ -36,4 +36,4 @@
 - [ ] Наглядное указание карт с мастью и цветом
 
 ## USE CASE
-<mxGraphModel><root><mxCell id="0"/><mxCell id="1" parent="0"/><mxCell id="2" parent="1" style="whiteSpace=wrap;html=1;" value="подсчет очков" vertex="1"><mxGeometry height="60" width="120" x="160" y="350" as="geometry"/></mxCell></root></mxGraphModel>
+<img width="499" height="792" alt="use_case_21 drawio" src="https://github.com/user-attachments/assets/b80009c9-8976-4485-9e69-0394d1e52d95" />
