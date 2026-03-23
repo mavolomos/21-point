@@ -298,10 +298,6 @@ def main():
     StartWindow(start_win)
     root.mainloop() #запуск цикла обработки событий
 
-
-if __name__ == "__main__":
-    main()
-
 #ЛОГИРОВАНИЕ
 class GameLogger:
     def __init__(self, log_file="blackjack_log.json"):#принимает имя файла
@@ -387,3 +383,6 @@ def logged_init(self, master, player_name):
     logger.log("session_start", {"player": player_name}) #запись стартка с именем игрока 
     original_init(self, master, player_name)
 GameWindow.__init__ = logged_init
+
+
+main()
