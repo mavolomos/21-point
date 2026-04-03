@@ -1,0 +1,156 @@
+{"timestamp": "2026-03-23T11:56:28.155767", "event": "session_start", "details": {"player": "мария"}}
+{"timestamp": "2026-03-23T11:56:29.834850", "event": "stand", "details": {"player": "мария", "player_hand": ["K♣", "10♣"], "player_score": 20}}
+{"timestamp": "2026-03-23T11:56:29.844599", "event": "game_over", "details": {"player": "мария", "winner": "игрок", "player_hand": ["K♣", "10♣"], "player_score": 20, "dealer_hand": ["A♠", "4♠"], "dealer_score": 15}}
+{"timestamp": "2026-03-23T11:56:31.617633", "event": "new_game", "details": {"player": "мария", "timestamp_start": "2026-03-23T11:56:31.617618"}}
+{"timestamp": "2026-03-23T11:56:32.765863", "event": "stand", "details": {"player": "мария", "player_hand": ["9♥", "J♣"], "player_score": 19}}
+{"timestamp": "2026-03-23T11:56:32.767102", "event": "game_over", "details": {"player": "мария", "winner": "игрок", "player_hand": ["9♥", "J♣"], "player_score": 19, "dealer_hand": ["Q♠", "8♥"], "dealer_score": 18}}
+{"timestamp": "2026-03-23T11:59:16.564053", "event": "session_start", "details": {"player": "мария"}}
+{"timestamp": "2026-03-23T11:59:18.168010", "event": "hit", "details": {"player": "мария", "player_hand_before": ["3♣", "4♣"], "player_score_before": 7}}
+{"timestamp": "2026-03-23T11:59:18.169199", "event": "hit_after", "details": {"player": "мария", "player_hand_after": ["3♣", "4♣", "6♠"], "player_score_after": 13, "game_over": false}}
+{"timestamp": "2026-03-23T11:59:18.643930", "event": "hit", "details": {"player": "мария", "player_hand_before": ["3♣", "4♣", "6♠"], "player_score_before": 13}}
+{"timestamp": "2026-03-23T11:59:18.644894", "event": "hit_after", "details": {"player": "мария", "player_hand_after": ["3♣", "4♣", "6♠", "4♦"], "player_score_after": 17, "game_over": false}}
+{"timestamp": "2026-03-23T11:59:20.241704", "event": "hit", "details": {"player": "мария", "player_hand_before": ["3♣", "4♣", "6♠", "4♦"], "player_score_before": 17}}
+{"timestamp": "2026-03-23T11:59:20.242929", "event": "game_over", "details": {"player": "мария", "winner": "дилер", "player_hand": ["3♣", "4♣", "6♠", "4♦", "A♥"], "player_score": 28, "dealer_hand": ["2♠", "7♦", "K♦"], "dealer_score": 19}}
+{"timestamp": "2026-03-23T11:59:21.583959", "event": "hit_after", "details": {"player": "мария", "player_hand_after": ["3♣", "4♣", "6♠", "4♦", "A♥"], "player_score_after": 28, "game_over": true}}
+{"timestamp": "2026-03-23T11:59:22.566783", "event": "new_game", "details": {"player": "мария", "timestamp_start": "2026-03-23T11:59:22.566767"}}
+{"timestamp": "2026-03-23T11:59:23.417881", "event": "hit", "details": {"player": "мария", "player_hand_before": ["7♠", "7♣"], "player_score_before": 14}}
+{"timestamp": "2026-03-23T11:59:23.419391", "event": "hit_after", "details": {"player": "мария", "player_hand_after": ["7♠", "7♣", "5♥"], "player_score_after": 19, "game_over": false}}
+{"timestamp": "2026-03-23T11:59:26.060148", "event": "stand", "details": {"player": "мария", "player_hand": ["7♠", "7♣", "5♥"], "player_score": 19}}
+{"timestamp": "2026-03-23T11:59:26.061650", "event": "game_over", "details": {"player": "мария", "winner": "игрок", "player_hand": ["7♠", "7♣", "5♥"], "player_score": 19, "dealer_hand": ["3♦", "A♦"], "dealer_score": 14}}
+{"timestamp": "2026-03-23T11:59:29.475706", "event": "new_game", "details": {"player": "мария", "timestamp_start": "2026-03-23T11:59:29.475694"}}
+{"timestamp": "2026-03-23T11:59:30.454233", "event": "hit", "details": {"player": "мария", "player_hand_before": ["10♥", "5♠"], "player_score_before": 15}}
+{"timestamp": "2026-03-23T11:59:30.455035", "event": "hit_after", "details": {"player": "мария", "player_hand_after": ["10♥", "5♠", "2♣"], "player_score_after": 17, "game_over": false}}
+{"timestamp": "2026-03-23T11:59:32.076375", "event": "hit", "details": {"player": "мария", "player_hand_before": ["10♥", "5♠", "2♣"], "player_score_before": 17}}
+{"timestamp": "2026-03-23T11:59:32.077526", "event": "game_over", "details": {"player": "мария", "winner": "дилер", "player_hand": ["10♥", "5♠", "2♣", "10♣"], "player_score": 27, "dealer_hand": ["A♦", "A♥"], "dealer_score": 22}}
+{"timestamp": "2026-03-23T11:59:33.263858", "event": "hit_after", "details": {"player": "мария", "player_hand_after": ["10♥", "5♠", "2♣", "10♣"], "player_score_after": 27, "game_over": true}}
+{"timestamp": "2026-03-23T12:07:50.444333", "event": "session_start", "details": {"player": "про"}}
+{"timestamp": "2026-03-23T12:08:31.747750", "event": "stand", "details": {"player": "про", "player_hand": ["A♠", "9♥"], "player_score": 20}}
+{"timestamp": "2026-03-23T12:08:31.750309", "event": "game_over", "details": {"player": "про", "winner": "игрок", "player_hand": ["A♠", "9♥"], "player_score": 20, "dealer_hand": ["Q♥", "7♣"], "dealer_score": 17}}
+{"timestamp": "2026-03-23T12:08:36.598053", "event": "new_game", "details": {"player": "про", "timestamp_start": "2026-03-23T12:08:36.598021"}}
+{"timestamp": "2026-03-23T12:08:44.528338", "event": "stand", "details": {"player": "про", "player_hand": ["10♣", "Q♣"], "player_score": 20}}
+{"timestamp": "2026-03-23T12:08:44.530823", "event": "game_over", "details": {"player": "про", "winner": "игрок", "player_hand": ["10♣", "Q♣"], "player_score": 20, "dealer_hand": ["9♣", "2♣"], "dealer_score": 11}}
+{"timestamp": "2026-03-23T12:08:48.485966", "event": "new_game", "details": {"player": "про", "timestamp_start": "2026-03-23T12:08:48.485945"}}
+{"timestamp": "2026-03-23T12:08:50.778770", "event": "stand", "details": {"player": "про", "player_hand": ["Q♠", "J♣"], "player_score": 20}}
+{"timestamp": "2026-03-23T12:08:50.781335", "event": "game_over", "details": {"player": "про", "winner": "игрок", "player_hand": ["Q♠", "J♣"], "player_score": 20, "dealer_hand": ["5♣", "J♥"], "dealer_score": 15}}
+{"timestamp": "2026-03-23T12:08:53.486912", "event": "new_game", "details": {"player": "про", "timestamp_start": "2026-03-23T12:08:53.486890"}}
+{"timestamp": "2026-03-23T12:08:55.220559", "event": "hit", "details": {"player": "про", "player_hand_before": ["2♦", "10♥"], "player_score_before": 12}}
+{"timestamp": "2026-03-23T12:08:55.223788", "event": "hit_after", "details": {"player": "про", "player_hand_after": ["2♦", "10♥", "5♥"], "player_score_after": 17, "game_over": false}}
+{"timestamp": "2026-03-23T12:08:58.121609", "event": "stand", "details": {"player": "про", "player_hand": ["2♦", "10♥", "5♥"], "player_score": 17}}
+{"timestamp": "2026-03-23T12:08:58.124305", "event": "game_over", "details": {"player": "про", "winner": "дилер", "player_hand": ["2♦", "10♥", "5♥"], "player_score": 17, "dealer_hand": ["Q♥", "K♥"], "dealer_score": 20}}
+{"timestamp": "2026-03-27T08:49:35.755075", "event": "session_start", "details": {"player": "амир"}}
+{"timestamp": "2026-03-27T08:49:45.124191", "event": "stand", "details": {"player": "амир", "player_hand": ["K♣", "4♠"], "player_score": 14}}
+{"timestamp": "2026-03-27T08:49:45.126915", "event": "game_over", "details": {"player": "амир", "winner": "дилер", "player_hand": ["K♣", "4♠"], "player_score": 14, "dealer_hand": ["7♣", "3♠", "8♠"], "dealer_score": 18}}
+{"timestamp": "2026-03-27T08:49:50.371100", "event": "new_game", "details": {"player": "амир", "timestamp_start": "2026-03-27T08:49:50.371077"}}
+{"timestamp": "2026-03-27T08:49:52.284464", "event": "hit", "details": {"player": "амир", "player_hand_before": ["2♠", "K♠"], "player_score_before": 12}}
+{"timestamp": "2026-03-27T08:49:52.286335", "event": "game_over", "details": {"player": "амир", "winner": "дилер", "player_hand": ["2♠", "K♠", "Q♦"], "player_score": 22, "dealer_hand": ["7♦", "10♥"], "dealer_score": 17}}
+{"timestamp": "2026-03-27T08:49:54.061636", "event": "hit_after", "details": {"player": "амир", "player_hand_after": ["2♠", "K♠", "Q♦"], "player_score_after": 22, "game_over": true}}
+{"timestamp": "2026-03-27T08:49:55.555937", "event": "new_game", "details": {"player": "амир", "timestamp_start": "2026-03-27T08:49:55.555906"}}
+{"timestamp": "2026-03-27T08:49:56.819451", "event": "hit", "details": {"player": "амир", "player_hand_before": ["3♣", "4♦"], "player_score_before": 7}}
+{"timestamp": "2026-03-27T08:49:56.822475", "event": "hit_after", "details": {"player": "амир", "player_hand_after": ["3♣", "4♦", "5♣"], "player_score_after": 12, "game_over": false}}
+{"timestamp": "2026-03-27T08:49:57.774380", "event": "hit", "details": {"player": "амир", "player_hand_before": ["3♣", "4♦", "5♣"], "player_score_before": 12}}
+{"timestamp": "2026-03-27T08:49:57.776570", "event": "game_over", "details": {"player": "амир", "winner": "дилер", "player_hand": ["3♣", "4♦", "5♣", "J♥"], "player_score": 22, "dealer_hand": ["7♠", "3♥", "K♣"], "dealer_score": 20}}
+{"timestamp": "2026-03-27T08:50:00.252800", "event": "hit_after", "details": {"player": "амир", "player_hand_after": ["3♣", "4♦", "5♣", "J♥"], "player_score_after": 22, "game_over": true}}
+{"timestamp": "2026-03-27T08:50:02.072075", "event": "new_game", "details": {"player": "амир", "timestamp_start": "2026-03-27T08:50:02.072053"}}
+{"timestamp": "2026-03-27T08:50:05.313055", "event": "stand", "details": {"player": "амир", "player_hand": ["9♣", "8♥"], "player_score": 17}}
+{"timestamp": "2026-03-27T08:50:05.314537", "event": "game_over", "details": {"player": "амир", "winner": "игрок", "player_hand": ["9♣", "8♥"], "player_score": 17, "dealer_hand": ["2♠", "J♥"], "dealer_score": 12}}
+{"timestamp": "2026-03-27T08:50:09.189888", "event": "new_game", "details": {"player": "амир", "timestamp_start": "2026-03-27T08:50:09.189864"}}
+{"timestamp": "2026-03-27T08:50:11.069088", "event": "stand", "details": {"player": "амир", "player_hand": ["6♣", "K♣"], "player_score": 16}}
+{"timestamp": "2026-03-27T08:50:11.070676", "event": "game_over", "details": {"player": "амир", "winner": "игрок", "player_hand": ["6♣", "K♣"], "player_score": 16, "dealer_hand": ["5♥", "6♦"], "dealer_score": 11}}
+{"timestamp": "2026-03-27T08:50:14.446350", "event": "new_game", "details": {"player": "амир", "timestamp_start": "2026-03-27T08:50:14.446337"}}
+{"timestamp": "2026-03-27T08:50:16.466647", "event": "stand", "details": {"player": "амир", "player_hand": ["9♦", "7♦"], "player_score": 16}}
+{"timestamp": "2026-03-27T08:50:16.467603", "event": "game_over", "details": {"player": "амир", "winner": "дилер", "player_hand": ["9♦", "7♦"], "player_score": 16, "dealer_hand": ["10♣", "K♦"], "dealer_score": 20}}
+{"timestamp": "2026-03-27T08:50:59.425929", "event": "new_game", "details": {"player": "амир", "timestamp_start": "2026-03-27T08:50:59.425908"}}
+{"timestamp": "2026-03-27T08:51:08.690347", "event": "hit", "details": {"player": "амир", "player_hand_before": ["3♣", "J♣"], "player_score_before": 13}}
+{"timestamp": "2026-03-27T08:51:08.692692", "event": "game_over", "details": {"player": "амир", "winner": "дилер", "player_hand": ["3♣", "J♣", "9♣"], "player_score": 22, "dealer_hand": ["8♥", "5♠"], "dealer_score": 13}}
+{"timestamp": "2026-03-27T08:51:10.661790", "event": "hit_after", "details": {"player": "амир", "player_hand_after": ["3♣", "J♣", "9♣"], "player_score_after": 22, "game_over": true}}
+{"timestamp": "2026-04-01T13:12:06.977484", "event": "session_start", "details": {"player": "мария"}}
+{"timestamp": "2026-04-01T13:12:26.559435", "event": "hit", "details": {"player": "мария", "player_hand_before": ["K♣", "2♣"], "player_score_before": 12}}
+{"timestamp": "2026-04-01T13:12:26.560948", "event": "game_over", "details": {"player": "мария", "winner": "дилер", "player_hand": ["K♣", "2♣", "K♠"], "player_score": 22, "dealer_hand": ["10♣", "A♣"], "dealer_score": 21}}
+{"timestamp": "2026-04-01T13:12:35.289852", "event": "hit_after", "details": {"player": "мария", "player_hand_after": ["K♣", "2♣", "K♠"], "player_score_after": 22, "game_over": true}}
+{"timestamp": "2026-04-01T13:12:36.713575", "event": "new_game", "details": {"player": "мария", "timestamp_start": "2026-04-01T13:12:36.713559"}}
+{"timestamp": "2026-04-01T13:12:38.479589", "event": "new_game", "details": {"player": "мария", "timestamp_start": "2026-04-01T13:12:38.479575"}}
+{"timestamp": "2026-04-01T13:12:39.825628", "event": "hit", "details": {"player": "мария", "player_hand_before": ["5♣", "4♠"], "player_score_before": 9}}
+{"timestamp": "2026-04-01T13:12:39.826954", "event": "hit_after", "details": {"player": "мария", "player_hand_after": ["5♣", "4♠", "10♦"], "player_score_after": 19, "game_over": false}}
+{"timestamp": "2026-04-01T13:12:41.050904", "event": "stand", "details": {"player": "мария", "player_hand": ["5♣", "4♠", "10♦"], "player_score": 19}}
+{"timestamp": "2026-04-01T13:12:41.051671", "event": "game_over", "details": {"player": "мария", "winner": "игрок", "player_hand": ["5♣", "4♠", "10♦"], "player_score": 19, "dealer_hand": ["3♥", "5♠", "9♠"], "dealer_score": 17}}
+{"timestamp": "2026-04-01T14:01:15.530934", "event": "session_start", "details": {"player": "ксения"}}
+{"timestamp": "2026-04-01T14:01:20.937227", "event": "hit", "details": {"player": "ксения", "player_hand_before": ["7♣", "3♣"], "player_score_before": 10}}
+{"timestamp": "2026-04-01T14:01:20.938523", "event": "hit_after", "details": {"player": "ксения", "player_hand_after": ["7♣", "3♣", "10♣"], "player_score_after": 20, "game_over": false}}
+{"timestamp": "2026-04-01T14:01:22.840208", "event": "stand", "details": {"player": "ксения", "player_hand": ["7♣", "3♣", "10♣"], "player_score": 20}}
+{"timestamp": "2026-04-01T14:01:22.841668", "event": "game_over", "details": {"player": "ксения", "winner": "игрок", "player_hand": ["7♣", "3♣", "10♣"], "player_score": 20, "dealer_hand": ["4♠", "9♠"], "dealer_score": 13}}
+{"timestamp": "2026-04-01T17:49:41.739891", "event": "session_start", "details": {"player": "мария"}}
+{"timestamp": "2026-04-01T17:57:55.041428", "event": "hit", "details": {"player": "мария", "player_hand_before": ["K♦", "2♣"], "player_score_before": 12}}
+{"timestamp": "2026-04-01T17:57:55.042986", "event": "game_over", "details": {"player": "мария", "winner": "дилер", "player_hand": ["K♦", "2♣", "J♦"], "player_score": 22, "dealer_hand": ["9♥", "K♠"], "dealer_score": 19}}
+{"timestamp": "2026-04-01T17:57:57.710311", "event": "hit_after", "details": {"player": "мария", "player_hand_after": ["K♦", "2♣", "J♦"], "player_score_after": 22, "game_over": true}}
+{"timestamp": "2026-04-01T17:57:58.693719", "event": "new_game", "details": {"player": "мария", "timestamp_start": "2026-04-01T17:57:58.693706"}}
+{"timestamp": "2026-04-01T17:57:59.737361", "event": "hit", "details": {"player": "мария", "player_hand_before": ["2♠", "2♦"], "player_score_before": 4}}
+{"timestamp": "2026-04-01T17:57:59.739276", "event": "hit_after", "details": {"player": "мария", "player_hand_after": ["2♠", "2♦", "Q♥"], "player_score_after": 14, "game_over": false}}
+{"timestamp": "2026-04-01T17:58:00.258718", "event": "hit", "details": {"player": "мария", "player_hand_before": ["2♠", "2♦", "Q♥"], "player_score_before": 14}}
+{"timestamp": "2026-04-01T17:58:00.260406", "event": "hit_after", "details": {"player": "мария", "player_hand_after": ["2♠", "2♦", "Q♥", "2♥"], "player_score_after": 16, "game_over": false}}
+{"timestamp": "2026-04-01T17:58:01.332394", "event": "hit", "details": {"player": "мария", "player_hand_before": ["2♠", "2♦", "Q♥", "2♥"], "player_score_before": 16}}
+{"timestamp": "2026-04-01T17:58:01.334077", "event": "game_over", "details": {"player": "мария", "winner": "дилер", "player_hand": ["2♠", "2♦", "Q♥", "2♥", "6♥"], "player_score": 22, "dealer_hand": ["3♣", "8♣"], "dealer_score": 11}}
+{"timestamp": "2026-04-01T17:58:03.004200", "event": "hit_after", "details": {"player": "мария", "player_hand_after": ["2♠", "2♦", "Q♥", "2♥", "6♥"], "player_score_after": 22, "game_over": true}}
+{"timestamp": "2026-04-01T17:58:04.331404", "event": "new_game", "details": {"player": "мария", "timestamp_start": "2026-04-01T17:58:04.331390"}}
+{"timestamp": "2026-04-01T17:58:05.043316", "event": "hit", "details": {"player": "мария", "player_hand_before": ["7♣", "7♥"], "player_score_before": 14}}
+{"timestamp": "2026-04-01T17:58:05.044332", "event": "hit_after", "details": {"player": "мария", "player_hand_after": ["7♣", "7♥", "6♦"], "player_score_after": 20, "game_over": false}}
+{"timestamp": "2026-04-01T17:58:06.437810", "event": "stand", "details": {"player": "мария", "player_hand": ["7♣", "7♥", "6♦"], "player_score": 20}}
+{"timestamp": "2026-04-01T17:58:06.439060", "event": "game_over", "details": {"player": "мария", "winner": "ничья", "player_hand": ["7♣", "7♥", "6♦"], "player_score": 20, "dealer_hand": ["7♦", "3♦", "K♣"], "dealer_score": 20}}
+{"timestamp": "2026-04-01T17:58:12.430975", "event": "new_game", "details": {"player": "мария", "timestamp_start": "2026-04-01T17:58:12.430960"}}
+{"timestamp": "2026-04-01T17:58:13.470187", "event": "hit", "details": {"player": "мария", "player_hand_before": ["4♥", "J♦"], "player_score_before": 14}}
+{"timestamp": "2026-04-01T17:58:13.471284", "event": "game_over", "details": {"player": "мария", "winner": "дилер", "player_hand": ["4♥", "J♦", "8♠"], "player_score": 22, "dealer_hand": ["4♣", "7♣"], "dealer_score": 11}}
+{"timestamp": "2026-04-01T17:58:14.345906", "event": "hit_after", "details": {"player": "мария", "player_hand_after": ["4♥", "J♦", "8♠"], "player_score_after": 22, "game_over": true}}
+{"timestamp": "2026-04-01T17:58:17.866661", "event": "new_game", "details": {"player": "мария", "timestamp_start": "2026-04-01T17:58:17.866648"}}
+{"timestamp": "2026-04-01T17:58:18.656789", "event": "hit", "details": {"player": "мария", "player_hand_before": ["6♣", "3♥"], "player_score_before": 9}}
+{"timestamp": "2026-04-01T17:58:18.658188", "event": "hit_after", "details": {"player": "мария", "player_hand_after": ["6♣", "3♥", "9♦"], "player_score_after": 18, "game_over": false}}
+{"timestamp": "2026-04-01T17:58:19.454760", "event": "stand", "details": {"player": "мария", "player_hand": ["6♣", "3♥", "9♦"], "player_score": 18}}
+{"timestamp": "2026-04-01T17:58:19.455941", "event": "game_over", "details": {"player": "мария", "winner": "дилер", "player_hand": ["6♣", "3♥", "9♦"], "player_score": 18, "dealer_hand": ["A♣", "10♣"], "dealer_score": 21}}
+{"timestamp": "2026-04-02T22:07:29.162993", "event": "session_start", "details": {"player": "лох педальный"}}
+{"timestamp": "2026-04-02T22:07:30.800507", "event": "hit", "details": {"player": "лох педальный", "player_hand_before": ["4♦", "J♦"], "player_score_before": 14}}
+{"timestamp": "2026-04-02T22:07:30.803219", "event": "hit_after", "details": {"player": "лох педальный", "player_hand_after": ["4♦", "J♦", "6♣"], "player_score_after": 20, "game_over": false}}
+{"timestamp": "2026-04-02T22:07:31.688053", "event": "stand", "details": {"player": "лох педальный", "player_hand": ["4♦", "J♦", "6♣"], "player_score": 20}}
+{"timestamp": "2026-04-02T22:07:31.689459", "event": "game_over", "details": {"player": "лох педальный", "winner": "игрок", "player_hand": ["4♦", "J♦", "6♣"], "player_score": 20, "dealer_hand": ["5♥", "6♠"], "dealer_score": 11}}
+{"timestamp": "2026-04-02T22:07:33.972909", "event": "new_game", "details": {"player": "лох педальный", "timestamp_start": "2026-04-02T22:07:33.972896"}}
+{"timestamp": "2026-04-02T22:07:35.068244", "event": "hit", "details": {"player": "лох педальный", "player_hand_before": ["7♣", "5♣"], "player_score_before": 12}}
+{"timestamp": "2026-04-02T22:07:35.069608", "event": "game_over", "details": {"player": "лох педальный", "winner": "дилер", "player_hand": ["7♣", "5♣", "J♦"], "player_score": 22, "dealer_hand": ["K♠", "4♣"], "dealer_score": 14}}
+{"timestamp": "2026-04-02T22:07:36.190252", "event": "hit_after", "details": {"player": "лох педальный", "player_hand_after": ["7♣", "5♣", "J♦"], "player_score_after": 22, "game_over": true}}
+{"timestamp": "2026-04-02T22:07:37.215370", "event": "new_game", "details": {"player": "лох педальный", "timestamp_start": "2026-04-02T22:07:37.215357"}}
+{"timestamp": "2026-04-02T22:07:38.405696", "event": "stand", "details": {"player": "лох педальный", "player_hand": ["Q♠", "9♥"], "player_score": 19}}
+{"timestamp": "2026-04-02T22:07:38.407679", "event": "game_over", "details": {"player": "лох педальный", "winner": "игрок", "player_hand": ["Q♠", "9♥"], "player_score": 19, "dealer_hand": ["7♥", "4♦"], "dealer_score": 11}}
+{"timestamp": "2026-04-02T22:07:40.889733", "event": "new_game", "details": {"player": "лох педальный", "timestamp_start": "2026-04-02T22:07:40.889714"}}
+{"timestamp": "2026-04-02T22:07:43.443852", "event": "stand", "details": {"player": "лох педальный", "player_hand": ["Q♥", "A♦"], "player_score": 21}}
+{"timestamp": "2026-04-02T22:07:43.445618", "event": "game_over", "details": {"player": "лох педальный", "winner": "игрок", "player_hand": ["Q♥", "A♦"], "player_score": 21, "dealer_hand": ["4♠", "J♠"], "dealer_score": 14}}
+{"timestamp": "2026-04-02T22:07:45.653875", "event": "new_game", "details": {"player": "лох педальный", "timestamp_start": "2026-04-02T22:07:45.653862"}}
+{"timestamp": "2026-04-02T22:07:47.194809", "event": "hit", "details": {"player": "лох педальный", "player_hand_before": ["5♣", "A♠"], "player_score_before": 16}}
+{"timestamp": "2026-04-02T22:07:47.196162", "event": "game_over", "details": {"player": "лох педальный", "winner": "дилер", "player_hand": ["5♣", "A♠", "9♣"], "player_score": 25, "dealer_hand": ["7♦", "Q♠"], "dealer_score": 17}}
+{"timestamp": "2026-04-02T22:07:48.622327", "event": "hit_after", "details": {"player": "лох педальный", "player_hand_after": ["5♣", "A♠", "9♣"], "player_score_after": 25, "game_over": true}}
+{"timestamp": "2026-04-02T22:07:49.356076", "event": "new_game", "details": {"player": "лох педальный", "timestamp_start": "2026-04-02T22:07:49.356059"}}
+{"timestamp": "2026-04-02T22:07:50.806596", "event": "hit", "details": {"player": "лох педальный", "player_hand_before": ["A♦", "5♠"], "player_score_before": 16}}
+{"timestamp": "2026-04-02T22:07:50.808265", "event": "hit_after", "details": {"player": "лох педальный", "player_hand_after": ["A♦", "5♠", "4♦"], "player_score_after": 20, "game_over": false}}
+{"timestamp": "2026-04-02T22:07:52.635060", "event": "stand", "details": {"player": "лох педальный", "player_hand": ["A♦", "5♠", "4♦"], "player_score": 20}}
+{"timestamp": "2026-04-02T22:07:52.636435", "event": "game_over", "details": {"player": "лох педальный", "winner": "игрок", "player_hand": ["A♦", "5♠", "4♦"], "player_score": 20, "dealer_hand": ["5♦", "A♠"], "dealer_score": 16}}
+{"timestamp": "2026-04-02T22:07:54.472731", "event": "new_game", "details": {"player": "лох педальный", "timestamp_start": "2026-04-02T22:07:54.472717"}}
+{"timestamp": "2026-04-02T22:07:56.285446", "event": "hit", "details": {"player": "лох педальный", "player_hand_before": ["6♦", "8♦"], "player_score_before": 14}}
+{"timestamp": "2026-04-02T22:07:56.287316", "event": "hit_after", "details": {"player": "лох педальный", "player_hand_after": ["6♦", "8♦", "7♣"], "player_score_after": 21, "game_over": false}}
+{"timestamp": "2026-04-02T22:07:58.098191", "event": "stand", "details": {"player": "лох педальный", "player_hand": ["6♦", "8♦", "7♣"], "player_score": 21}}
+{"timestamp": "2026-04-02T22:07:58.099632", "event": "game_over", "details": {"player": "лох педальный", "winner": "игрок", "player_hand": ["6♦", "8♦", "7♣"], "player_score": 21, "dealer_hand": ["3♣", "Q♦"], "dealer_score": 13}}
+{"timestamp": "2026-04-02T22:07:59.997320", "event": "new_game", "details": {"player": "лох педальный", "timestamp_start": "2026-04-02T22:07:59.997308"}}
+{"timestamp": "2026-04-02T22:08:01.338385", "event": "hit", "details": {"player": "лох педальный", "player_hand_before": ["3♠", "4♣"], "player_score_before": 7}}
+{"timestamp": "2026-04-02T22:08:01.340519", "event": "hit_after", "details": {"player": "лох педальный", "player_hand_after": ["3♠", "4♣", "5♠"], "player_score_after": 12, "game_over": false}}
+{"timestamp": "2026-04-02T22:08:01.899007", "event": "hit", "details": {"player": "лох педальный", "player_hand_before": ["3♠", "4♣", "5♠"], "player_score_before": 12}}
+{"timestamp": "2026-04-02T22:08:01.900286", "event": "hit_after", "details": {"player": "лох педальный", "player_hand_after": ["3♠", "4♣", "5♠", "6♠"], "player_score_after": 18, "game_over": false}}
+{"timestamp": "2026-04-02T22:08:02.495928", "event": "hit", "details": {"player": "лох педальный", "player_hand_before": ["3♠", "4♣", "5♠", "6♠"], "player_score_before": 18}}
+{"timestamp": "2026-04-02T22:08:02.496962", "event": "game_over", "details": {"player": "лох педальный", "winner": "дилер", "player_hand": ["3♠", "4♣", "5♠", "6♠", "K♠"], "player_score": 28, "dealer_hand": ["4♦", "5♥", "4♠"], "dealer_score": 13}}
+{"timestamp": "2026-04-02T22:08:03.825591", "event": "hit_after", "details": {"player": "лох педальный", "player_hand_after": ["3♠", "4♣", "5♠", "6♠", "K♠"], "player_score_after": 28, "game_over": true}}
+{"timestamp": "2026-04-02T22:08:04.555457", "event": "new_game", "details": {"player": "лох педальный", "timestamp_start": "2026-04-02T22:08:04.555440"}}
+{"timestamp": "2026-04-02T22:08:07.133505", "event": "stand", "details": {"player": "лох педальный", "player_hand": ["9♣", "K♣"], "player_score": 19}}
+{"timestamp": "2026-04-02T22:08:07.135530", "event": "game_over", "details": {"player": "лох педальный", "winner": "дилер", "player_hand": ["9♣", "K♣"], "player_score": 19, "dealer_hand": ["J♥", "Q♣"], "dealer_score": 20}}
+{"timestamp": "2026-04-02T22:08:09.427967", "event": "new_game", "details": {"player": "лох педальный", "timestamp_start": "2026-04-02T22:08:09.427953"}}
+{"timestamp": "2026-04-02T22:08:10.748731", "event": "stand", "details": {"player": "лох педальный", "player_hand": ["A♣", "8♣"], "player_score": 19}}
+{"timestamp": "2026-04-02T22:08:10.750084", "event": "game_over", "details": {"player": "лох педальный", "winner": "игрок", "player_hand": ["A♣", "8♣"], "player_score": 19, "dealer_hand": ["4♠", "A♦"], "dealer_score": 15}}
+{"timestamp": "2026-04-02T22:08:12.496610", "event": "new_game", "details": {"player": "лох педальный", "timestamp_start": "2026-04-02T22:08:12.496599"}}
+{"timestamp": "2026-04-02T22:08:13.821582", "event": "stand", "details": {"player": "лох педальный", "player_hand": ["Q♦", "J♣"], "player_score": 20}}
+{"timestamp": "2026-04-02T22:08:13.822893", "event": "game_over", "details": {"player": "лох педальный", "winner": "игрок", "player_hand": ["Q♦", "J♣"], "player_score": 20, "dealer_hand": ["J♦", "4♦"], "dealer_score": 14}}
+{"timestamp": "2026-04-02T22:08:15.614210", "event": "new_game", "details": {"player": "лох педальный", "timestamp_start": "2026-04-02T22:08:15.614197"}}
+{"timestamp": "2026-04-02T22:08:16.605639", "event": "hit", "details": {"player": "лох педальный", "player_hand_before": ["10♥", "5♦"], "player_score_before": 15}}
+{"timestamp": "2026-04-02T22:08:16.607708", "event": "game_over", "details": {"player": "лох педальный", "winner": "дилер", "player_hand": ["10♥", "5♦", "J♠"], "player_score": 25, "dealer_hand": ["10♣", "Q♦"], "dealer_score": 20}}
+{"timestamp": "2026-04-02T22:08:17.972167", "event": "hit_after", "details": {"player": "лох педальный", "player_hand_after": ["10♥", "5♦", "J♠"], "player_score_after": 25, "game_over": true}}
